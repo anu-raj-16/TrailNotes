@@ -92,10 +92,10 @@ function JournalPage({ goHome }) {
 
   if (!isAuthenticated) {
     return (
-      <div style={{ padding: '2rem', textAlign: 'center' }}>
-        <h2>You must be logged in to write a journal ;-;</h2>
-        <button onClick={loginWithRedirect}>Log In</button>
-      </div>
+        <div className='notLoggedIn'>
+            <h2 className='notLoggedIn'>You must be logged in to create a journal entry.</h2>
+            <button className='notLoggedIn' onClick={loginWithRedirect}>Log In</button>
+        </div>
     );
   }
 

@@ -10,9 +10,9 @@ form {
     display: flex;
     flex-direction: column;
     align-items: center;
-  }
+}
 
-  textarea {
+textarea {
     width: 100%;
     max-width: 500px;
     padding: 12px;
@@ -23,7 +23,7 @@ form {
     background-color: #ffffff;
     box-shadow: inset 0 1px 3px rgba(0,0,0,0.05);
     margin-bottom: 1rem;
-  }
+}
 
 .journalButton {
     padding: 12px 24px;
@@ -45,6 +45,38 @@ form {
     transform: translateY(-2px);
 }
 
+div.notLoggedIn {
+    padding: 2rem;
+    text-align: center;
+    height: 100vh;
+    /*background-color: #e0f7fa;*/
+    background-image: url('./images/port-moody.jpg');
+    background-size: cover;
+    background-position: center;
+    /*color: '#000';*/
+    color: #2f4f4f;
+    font-family: 'Helvetica Neue';
+}
+
+button.notLoggedIn {
+    padding: 12px 24px;
+    background: #8fc2cc;
+    border: none;
+    border-radius: 30px;
+    color: #2f4f4f;
+    font-size: 16px;
+    font-family: 'Helvetica Neue', sans-serif;
+    letter-spacing: 0.5px;
+    cursor: pointer;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    margin: 10px;
+}
+
+button.notLoggedIn:hover {
+    background: linear-gradient(135deg, #bcd4d3, #d6f5f5);
+    transform: translateY(-2px);
+}
+
 .custom-file-upload {
     display: inline-block;
     padding: 12px 24px;
@@ -59,14 +91,14 @@ form {
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
     transition: background 0.3s ease, transform 0.2s ease;
     margin: 10px;
-  }
+}
   
-  .custom-file-upload:hover {
+.custom-file-upload:hover {
     background: linear-gradient(135deg, #bcd4d3, #d6f5f5);
     transform: translateY(-2px);
-  }
+}
   
-  .custom-file-upload input[type="file"] {
+.custom-file-upload input[type="file"] {
     display: none;
-  }
+}
   
