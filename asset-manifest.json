@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/TrailNotes/static/css/main.02316271.css",
-    "main.js": "/TrailNotes/static/js/main.575d8018.js",
-    "static/js/453.8ab44547.chunk.js": "/TrailNotes/static/js/453.8ab44547.chunk.js",
-    "static/media/lost-lake.jpg": "/TrailNotes/static/media/lost-lake.2b05e485aae9ed539bde.jpg",
-    "static/media/cherry-blossoms.jpg": "/TrailNotes/static/media/cherry-blossoms.a624d51a4c8b2cedb933.jpg",
-    "static/media/snowy-mountain.jpg": "/TrailNotes/static/media/snowy-mountain.49fc995d8a70acaa78d5.jpg",
-    "static/media/Generated_Meditation.jpeg": "/TrailNotes/static/media/Generated_Meditation.942f4d4def509037ac94.jpeg",
-    "index.html": "/TrailNotes/index.html",
-    "main.02316271.css.map": "/TrailNotes/static/css/main.02316271.css.map",
-    "main.575d8018.js.map": "/TrailNotes/static/js/main.575d8018.js.map",
-    "453.8ab44547.chunk.js.map": "/TrailNotes/static/js/453.8ab44547.chunk.js.map"
+    "main.css": "/npm%20run%20deploy/static/css/main.02316271.css",
+    "main.js": "/npm%20run%20deploy/static/js/main.f596df8b.js",
+    "static/js/453.8ab44547.chunk.js": "/npm%20run%20deploy/static/js/453.8ab44547.chunk.js",
+    "static/media/lost-lake.jpg": "/npm%20run%20deploy/static/media/lost-lake.2b05e485aae9ed539bde.jpg",
+    "static/media/cherry-blossoms.jpg": "/npm%20run%20deploy/static/media/cherry-blossoms.a624d51a4c8b2cedb933.jpg",
+    "static/media/snowy-mountain.jpg": "/npm%20run%20deploy/static/media/snowy-mountain.49fc995d8a70acaa78d5.jpg",
+    "static/media/Generated_Meditation.jpeg": "/npm%20run%20deploy/static/media/Generated_Meditation.942f4d4def509037ac94.jpeg",
+    "index.html": "/npm%20run%20deploy/index.html",
+    "main.02316271.css.map": "/npm%20run%20deploy/static/css/main.02316271.css.map",
+    "main.f596df8b.js.map": "/npm%20run%20deploy/static/js/main.f596df8b.js.map",
+    "453.8ab44547.chunk.js.map": "/npm%20run%20deploy/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.02316271.css",
-    "static/js/main.575d8018.js"
+    "static/js/main.f596df8b.js"
   ]
 }
