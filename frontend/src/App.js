@@ -39,7 +39,7 @@ function App() {
                 const nextIndex = (currentIndex + 1) % images.length;
                 return images[nextIndex];
             });
-        }, 10000);
+        }, 5000);
 
         return () => clearInterval(intervalId);
     }, []);
